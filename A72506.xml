@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copie, of a letter vvritten to a gentleman of vvorship in England Lamentably discoursing the crueltie of Bashavv Mahomet, high admirall to the great Turke: vvho vvith a fleete of one hundred and seauen gallies, entred the confines of the Christian princes within the Straits of Gibraltar. With his landing in Sicilia an iland of the Spanish kings, which hee burned and spoiled, taking many prisoners. Also the taking of two of the principall gallies of the Duke of Florence with one thousand fighting men: the taking and burning of three great ships in the Vale of Messina, and two others in the gulphe of Venice, one which being a Venetian, the other a Fleming.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1595</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72506</idno>
+            <idno type="STC">STC 15115.5</idno>
+            <idno type="STC">ESTC S125057</idno>
+            <idno type="EEBO-CITATION">99900356</idno>
+            <idno type="PROQUEST">99900356</idno>
+            <idno type="VID">150995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1994:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copie, of a letter vvritten to a gentleman of vvorship in England Lamentably discoursing the crueltie of Bashavv Mahomet, high admirall to the great Turke: vvho vvith a fleete of one hundred and seauen gallies, entred the confines of the Christian princes within the Straits of Gibraltar. With his landing in Sicilia an iland of the Spanish kings, which hee burned and spoiled, taking many prisoners. Also the taking of two of the principall gallies of the Duke of Florence with one thousand fighting men: the taking and burning of three great ships in the Vale of Messina, and two others in the gulphe of Venice, one which being a Venetian, the other a Fleming.</title>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by I.D. for Thomas Gosson: and are to be sold at his shop by London Bridge Gate,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1595.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R. La.</note>
+                  <note>Title page is A2.</note>
+                  <note>Caption title on p. 1: The admirall of the great Turkes inuasion of Sicilia an Iland of the Spanish kings, ... .</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150995:1"/>
+            <!-- PDF PAGE 78 -->
+            <pb facs="tcp:150995:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>The true Copie, of a Letter vvritten to a Gentleman of <hi>VVorship in England.</hi>
+            </p>
+            <p>Lamentably diſcourſing the crueltie of <hi>Ba<g ref="char:EOLhyphen"/>shavv Mahomet,</hi> high Admirall to the great <hi>Turke: vvho vvith a Fleete of one hundred</hi> and ſeauen Gallies, entred the Confines of the Chriſtian Princes within the Straits <hi>of Gibraltar.</hi>
+            </p>
+            <p>With his landing in <hi>Sicilia</hi> an Iland of the <hi>Spaniſh Kings, which hee burned and</hi> ſpoiled, taking many Priſoners.</p>
+            <p>
+               <hi>Alſo the taking of two of the principall Gallies of the Duke of Florence with one thouſand fight<g ref="char:EOLhyphen"/>ing men: The taking and burning of three great Ships in the vale of</hi> Meſſina, <hi>and two others in the gulphe of</hi> Venice, <hi>one of which being a Ve<g ref="char:EOLhyphen"/>netian, the other a Fleming.</hi>
+            </p>
+            <p>Printed at London by I.D. for Thomas Goſſon: and are to be ſold at his ſhop by London Bridge Gate, 1595.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150995:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:150995:2"/>
+            <!-- PDF PAGE 79 -->
+            <head>The Admirall of the great Turkes inuaſion of Sicilia an Iland of the Spanish Kings, with his other extreame cruelties ouer diuers Nations whom he ſpoiled, entering the Con<g ref="char:EOLhyphen"/>fines of the Christian Princes in the Straits of Giblatar with 107. Gallies in Ianuarie laſt.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight worſhipfull, to write you the many wrongs offered my Captaine, your worſhipful good friend, in this place (where nei<g ref="char:EOLhyphen"/>ther lawes of Chriſtians or conſcience is re<g ref="char:EOLhyphen"/>garded) might rather cumber you than any way mooue your content, wherefore I o<g ref="char:EOLhyphen"/>mit them, not doubting, but by his owne re<g ref="char:EOLhyphen"/>ports you haue long ſithence beene aduerti<g ref="char:EOLhyphen"/>ſed of each perticular accident, for that I heare to all our great comforts, by Maſter <hi>Spencer</hi> of London, who arriued here with a ſhip of the Thames, that he was met out of the Straits long ſince: which newes (I may well ſay) was ioyfull vnto vs, for that it was verily thought, yea, and ſpoken ex<g ref="char:EOLhyphen"/>preſly,
+<pb n="2" facs="tcp:150995:3"/>
+               <!-- PDF PAGE 80 -->that he was deade, ſo credibly belee<g ref="char:EOLhyphen"/>ued by the ſodaine going hence of his ſhip: But bleſt bee God for his ſafetie, for by his welfare our hopes are made the greater, his care wil be the more of vs his poore follow<g ref="char:EOLhyphen"/>ers, &amp; we ſhall the more patiently beare this diſcontent, liuing here amongſt thoſe which holde vs in no more regarde than they doo beaſtes, but onely in regarde of the league betweene our gratious Queene and the graund Seigniory, as hath appeared by their indirect dealings with vs, not only the Gentleman beeing preſent, but with vs in his abſence, eſpecially, ſo long as the olde Baſhaw continued here, which ſtomacked vs greatly, the more for our Captaines de<g ref="char:EOLhyphen"/>parture, of whom he thought if he once a<g ref="char:EOLhyphen"/>gain got him in his poſſeſſion to haue made a great gaine: But he is now gone to Con<g ref="char:EOLhyphen"/>ſtantinople, where it is ſaid he is very hard<g ref="char:EOLhyphen"/>ly thought of, not only for abuſing my Cap<g ref="char:EOLhyphen"/>taine and vs, but alſo for forcing Maſter <hi>Poynes</hi> his man the Purſer of the <hi>Mary</hi> to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne Turke, who is proſecuted hardly by the Engliſh men there for the ſame, ſo that for the loue the Emperour beareth to our Nation, they ſay he is like to looſe his head, ſince whoſe departure, and the comming of this newe Vice-Roy wee haue beene very
+<pb n="3" facs="tcp:150995:3"/>
+               <!-- PDF PAGE 80 -->wel intreated, and with ſuch fauour, as we cannot bee better with our neareſt friends, being not of our owne Nation, which kind<g ref="char:EOLhyphen"/>nes is by the expreſſe command of the great Turke, whom he dares not offend, dread<g ref="char:EOLhyphen"/>ing his life.</p>
+            <p>But for all their ſhows of loue; God ſend vs the company of our good friends in Eng<g ref="char:EOLhyphen"/>lande, for our owne extreamity is not ſuch, as is the griefe and diſcontent of minde, to ſee what numbers of Chriſtians daily are brought hither: And not long ſince there was brought by <hi>Meryteroyze</hi> the Admirall <hi>1000.</hi> able men priſoners, beſides ſlaues which were taken by fowre ſmall Gallies of the Turkes, going in courſe on the Chri<g ref="char:EOLhyphen"/>ſtian ſhore, where they met the the two chief Gallies of the Duke of Florence his Admi<g ref="char:EOLhyphen"/>rall with his lanthorne, and one other, the leaſt hauing twenty eight bankes on a ſide, and ſixe men at euery Oare. Theſe Gallies when they ſaw, firſt the Turkes gaue them chaſe, and the Turkes comming with them likewiſe, came ſodainely in ſight to diſcrie what one the other were.</p>
+            <p>The Florentines perceiuing them to bee Turkes, were amazed what to doo, ſome would fight, others gaue counſel to be gone: Growing into mutinies within themſelues
+<pb n="4" facs="tcp:150995:4"/>
+               <!-- PDF PAGE 81 -->the guider of the Chriſtian Admirall cried out to the Captaine, to free his ſlaues, and let them fight for their liberty: But he cried to be gone, and cauſed them to row all they could. But his ſlaues being many of them Turkes would not worke, but gaue ouer their labor in hope that they ſhould be freed by thoſe Gallies. How ſo euer it chaunced, they aſſured them ſelues worſe than they were, they could not be: if taken, they were ſure of livertie: if not, they coulde bee no worſe.</p>
+            <p>The companies as is ſaide, being at this ods within themſelues, vp came the Gal<g ref="char:EOLhyphen"/>lies, and diſcharged their Prowes and ſmal ſhot vpon them, doing much ſpoile vnto the<g ref="char:cmbAbbrStroke">̄</g> and killed many of the men, yet were moſt brauely anſwered of the Florentines, who ſpared neither powder nor ſhot, but in rea<g ref="char:EOLhyphen"/>ſonable ſort beſtowed them both. But in the ende, hauing ſmall hope to eſcape being ſo fiercely aſſailed, their ſtomacks quailed, the Turkes boorded them. In the entry, they murthered as many with their Curtleaxes as ſtoode in their waies, forcing diuers to leape ouer boord, making ſuch maſſacre a<g ref="char:EOLhyphen"/>mongſt them, that might grieue any Chri<g ref="char:EOLhyphen"/>ſtian heart to heare it. In this conflict was the Chriſtian Generall ſlaine, and many of
+<pb n="5" facs="tcp:150995:4"/>
+               <!-- PDF PAGE 81 -->the better ſort, who if they had beene men, as they be prowd cowards, might as well haue taken the Turkes.</p>
+            <p>Thus the poore Chriſtians being ſubdu<g ref="char:EOLhyphen"/>ed, ſuch of the Turks which in the fight had their friends ſlaine, did in reuenge they ſo abuſe them as they wiſhed they had all leapt ouer boord to eſcape their tyrranny, in which fight, there periſhed many Chriſti<g ref="char:EOLhyphen"/>ans, and not aboue foure ſcore Turkes in the whole: with this bootie they returned to Argiere againe, after they had been from thence ſome eighteene daies, bringing with them of Captaines Chriſtians nine hundred and ninetie, &amp; releaſed threo hundred Turks and more which were ſlaues with them.</p>
+            <p>Amongſt which was one Engliſhman who was Gunner in one of the Gallies, whoſe fauor was more than all the others, yet was he chained with the reſt, vntill the Admirall <hi>Meryteroyze</hi> had examined him, who finding as well by others reportes as his owne, that he was taken at Genoway, comming Pilot <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ha Flemming to ſerue a<g ref="char:EOLhyphen"/>gainſt his will, he was ſet at libertie.</p>
+            <p>Whiles theſe Gallies were abroad, there ariued a Frigot heere from Conſtantinople with Letters, commaunding as well Ar<g ref="char:EOLhyphen"/>giere, as all other Portes in Barberie by a
+<pb n="6" facs="tcp:150995:5"/>
+               <!-- PDF PAGE 82 -->day <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d, with ſuch Gallies as they could make to meete the Admirall of Tur<g ref="char:EOLhyphen"/>key, who came with a great Fleete to range the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eas, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the forces of the Chriſti<g ref="char:EOLhyphen"/>ans <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commanding them to put o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to the Chriſtian ſhore, and learne by ſuch meanes as they coulde what forces the Chriſtians had, who they were informed had one hun<g ref="char:EOLhyphen"/>dred and fiftie Sailes reads to encounter them, and in the vale of <hi>Meſſina</hi> to meete them, to giue intelligence what they heard.</p>
+            <p>For this ſeruice, ſeauen Gallies from Argiere was appointed foure, of them be<g ref="char:EOLhyphen"/>ing <hi>Meryteroyze</hi> who was Admirall: <hi>Manny Ro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zus</hi> vice Admirall: <hi>Manny Prechinel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Manny Spaniola,</hi> the chiefe of the other beſt Gallies, who were not long in prouiding, but haſtned to meete the Baſha we as they were commaunded, and putting ouer to the Chriſtian ſhore, in the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e of <hi>Venice,</hi> they gaue chace to a tall ſhip of <hi>Venice,</hi> with whom they came and haled them, but the <hi>Venetians</hi> woulde not ſuffer them to come a boord but moſt couragiouſly reſiſted them, doing great ſpoile, yet in the ende were en<g ref="char:EOLhyphen"/>forced to yeeld, and being taken and deman<g ref="char:EOLhyphen"/>ded how they durſt breake the League be<g ref="char:EOLhyphen"/>tweene them and the State whom they anſwered in ſuch manner, that they were
+<pb n="7" facs="tcp:150995:5"/>
+               <!-- PDF PAGE 82 -->for their labour chained and made ſlaues, and their ſhip which was loden with great welth, bound for <hi>Marcellus</hi> was before their faces without any remorſe fired.</p>
+            <p>From thence they bore to <hi>Calabria,</hi> an I<g ref="char:EOLhyphen"/>land ſcituate betweene Chriſtendome and Barbarie where they gaue chace to a grea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e-boat loden (as they ſay) with Engliſh<g ref="char:EOLhyphen"/>mens goods<g ref="char:punc">▪</g> Theſe Flemings ſeeing the Gallies giue them chace, &amp; doubting they had beene the Spaniſh Gallies, fearing if they were taken they ſhould be ill entreated for wearing the engliſh colour in their top, heaued the ſame ouer boorde, with their Charti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Partie bills of lading and all let<g ref="char:EOLhyphen"/>ters that might giue them any ſhow to bee, or haue to doo for England: for which their raſhnes when the Turkes had boorded and taken them, they were all made priſoners and chained, and their ſhip fired &amp; burned, notwithſtanding all their entreaties, dila<g ref="char:EOLhyphen"/>ting truely what they were, and what they entended: Soone after this miſchiefe was ended, the Turkiſh Gallies had ſight firſt of two Gallies then three then foure more, ſo that they had diſcried nine Sayles in ſight, all tall Gallies far bigger than the Turks, which being well percei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was ſuſpec<g ref="char:EOLhyphen"/>ted by the Turkes, they were part of that
+<pb n="8" facs="tcp:150995:6"/>
+               <!-- PDF PAGE 83 -->Fleete of one hundred and fiftie which was ſaid to be made out for them, and thereon re<g ref="char:EOLhyphen"/>ſolued not to ſtay, dreading the reſt was not far, and they too weake to encounter them, &amp; therefore made from them all they could: But the Chriſtian Gallies hauing had ſight of them, gaue them chaſe, but winde failing them, and the Turkes Galies being light &amp; nimble, towed away from them and ſo eſ<g ref="char:EOLhyphen"/>caped.</p>
+            <p>This hazard paſt, they plied to meete the Fleet as they had directions, of whom by o<g ref="char:EOLhyphen"/>ther ſmall Gallies which were ſent for ſpies they had intelligence, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther they made, &amp; in the vale of <hi>Meſſina</hi> met them, at which, ſuch generall reioyſing after theſe maner was made that the noyſe of their Cannons and ſmall ſhot was heard tumbling in the aire by report neere twenty Leagues. This triumph paſt, <hi>Meryteroyze</hi> &amp; his three com<g ref="char:EOLhyphen"/>panions were ſent for to the <hi>Baſhaw,</hi> who gaue them great entertainement, and ma<g ref="char:EOLhyphen"/>ny welcomes: To him when they had at large diſcourſed what had hapned them with all their fortunes in their voyage, the night growing on, they take their leaues for that time, each one going to his charge. The next morning a flag of parley was put out in the Admirall, to ſummon all Com<g ref="char:EOLhyphen"/>manders
+<pb n="9" facs="tcp:150995:6"/>
+               <!-- PDF PAGE 83 -->to come <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> where of<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>me par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey, they had <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their intended action, each one <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ng <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s charge deliuered, as will thoſe for the ſer<g ref="char:EOLhyphen"/>uice by ſea, as thoſe appointed for the land: To <hi>Sicilia</hi> they come, and rowed cloſe aboord the ſhore, banking breſt and breſt, and on the Ile where they were moſt ſure their force was leaſt; they landed: at whoſe ſo<g ref="char:EOLhyphen"/>dain co<g ref="char:cmbAbbrStroke">̄</g>ming, the people ſuch as could make ſhift for themſelues, fled into the mountains leauing fewe others but aged and weake people, with yong children, which thoſe cru<g ref="char:EOLhyphen"/>ell people made no conſcience to kill in moſt brutiſh and vile maner, ſeauen ſeuerall vil<g ref="char:EOLhyphen"/>lages they thus ſurpriſed: Carried their or<g ref="char:EOLhyphen"/>dinance from their Ports, ſpoiled and rifled their goods, burned their townes and hou<g ref="char:EOLhyphen"/>ſes, ſacked their holds &amp; places of defence, leauing many man wiueles, and many a wife huſbandles, the parents lamenting their children loſt, led by theſe merciles peo<g ref="char:EOLhyphen"/>ple into captiuitie, and the children crying for the parents who were murthered, their vineyards burned in like maner, and what miſchief was there which they did not per<g ref="char:EOLhyphen"/>forme? Thus by the force of thoſe merciles people are many beggered which were of wealth and vtterly ſpoiled. And it is greatly
+<pb n="10" facs="tcp:150995:7"/>
+               <!-- PDF PAGE 84 -->feared in all Chriſtian Regions in theſe partes, that with greater forces they will make their repaire into thoſe Confines: and by the Merchants of <hi>Marcellus</hi> it is com<g ref="char:EOLhyphen"/>monly ſpoken heere, that hee gathereth a great power pretending to come for Na<g ref="char:EOLhyphen"/>ples: To rebate whoſe furious pride in con<g ref="char:EOLhyphen"/>quering, the Spaniſh King hath ſent to the State of Venice for aide againſt them, which the Duke will not grant in regarde of the League betweene them, without great matters bee accompliſht which is re<g ref="char:EOLhyphen"/>quired: It is ſaide, he requireth Sicilia be aſſured to the State of Venice. But how true the report of theſe Princes doinges is, I cannot ſay, for the reſt I haue certaine knowledge to be true, as well by that En<g ref="char:EOLhyphen"/>gliſhman, which was preſent at all the ſer<g ref="char:EOLhyphen"/>uice, which was taken in the Duke of Flo<g ref="char:EOLhyphen"/>rence Gallies, as alſo by diuers other which were eye witnes to the ſame and returned hither with great ſpoile.</p>
+            <p>God of his great mercie vnite the hearts of all Chriſtian Princes, that they louing faithfully, may ioyne themſelues and their Forces, to relieue thoſe miſerable afflicted people, which groue vnder the burthen of their miſeries: So ſhall God bee glorified by them, and the oppreſſed comforted.</p>
+            <p>
+               <pb n="11" facs="tcp:150995:7"/>
+               <!-- PDF PAGE 84 -->
+Thus ſir I haue beene ouer bolde with your Worſhip, which I hope you will par<g ref="char:EOLhyphen"/>don, and remember my ſuite to my friendly Captaine, whome I hope ſhortly to ſee.</p>
+            <closer>
+               <dateline>Ar<g ref="char:EOLhyphen"/>giere <date>this tenth of Ianuarie.</date>
+               </dateline> 
+               <signed>Your VVorſhips in all duetie, euer readie, R. La.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
